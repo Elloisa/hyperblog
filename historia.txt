@@ -1,3 +1,4 @@
 Esta es la historia de Lorena Tito 
 Está empezando a aprender Git y Github 
+Esta escuchando musica latina para evitar dormirse y porque le divierte
 
